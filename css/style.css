@@ -3,19 +3,23 @@
 
 /* This is a comment */
 
-/*CSS Syntax:
+/* CSS Syntax:
+
  selector {
    property: value;
    property: value;
 }
+
 */
-/*Type selector */
+
+/* Type selector */
 
 p{/* select all <p> */
 
    font-size: 1em;
    line-height: 1.5em;
 }
+
 figcaption {
   /*font-weight: normal;
   font-size: 0.75em;
